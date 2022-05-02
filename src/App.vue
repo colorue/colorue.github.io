@@ -81,10 +81,12 @@
   .screenshot-img {
     max-width: 100%;
     display: none;
+    margin: auto;
   }
 
   .screenshot-img-mobile {
     max-width: 100%;
+    margin: auto;
   }
 
   @media (min-width: 768px) {
