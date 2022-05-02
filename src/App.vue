@@ -12,9 +12,7 @@
         <p class="subtitle">
           Colorue is a free, open source, drawing app for iOS
         </p>
-        <a href="/ios" target="_blank" class="app-store-btn">
-          <img alt="App Store Logo" src="./assets/app-store-badge.png" width="180">
-        </a>
+        <a href="https://apps.apple.com/us/app/colorue/id1621782369?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1651363200&h=c5ba75a29d99223b00fd73cafdea2b90" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
       </div>
     </div>
     <br>
