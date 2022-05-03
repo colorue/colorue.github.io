@@ -110,7 +110,7 @@
   }
 
   .social-link {
-    color: blue;
+    color: black;
     cursor: pointer;
     opacity: 1.0;
   }
