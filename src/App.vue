@@ -20,28 +20,13 @@
     <img alt="Screenshots" src="./assets/screenshots-mobile.png" class="screenshot-img-mobile">
     <ul class="social-links">
       <li>
-        <a href="https://www.facebook.com/colorueApp" target="_blank" class="social-link">
-          <font-awesome-icon :icon="['fab', 'facebook']"/>
-        </a>
-      </li>
-      <li>
         <a href="https://www.instagram.com/colorue/" target="_blank" class="social-link">
-          <font-awesome-icon :icon="['fab', 'instagram']"/>
-        </a>
-      </li>
-      <li>
-        <a href="https://www.icloud.com/sharedalbum/#B0V532ODWbzUyI" target="_blank" class="social-link">
-          <font-awesome-icon icon="images"/>
+          <font-awesome-icon :icon="['fab', 'instagram']" size="2x"/>
         </a>
       </li>
       <li>
         <a href="https://github.com/colorue/ios" target="_blank" class="social-link">
-          <font-awesome-icon :icon="['fab', 'github']"/>
-        </a>
-      </li>
-      <li>
-        <a href="https://discord.gg/mntPxavfTZ" target="_blank" class="social-link">
-          <font-awesome-icon :icon="['fab', 'discord']"/>
+          <font-awesome-icon :icon="['fab', 'github']" size="2x"/>
         </a>
       </li>
     </ul>
@@ -125,7 +110,9 @@
   }
 
   .social-link {
+    color: blue;
     cursor: pointer;
+    opacity: 1.0;
   }
 
   .social-link:hover {
@@ -133,6 +120,7 @@
   }
 
   .social-links {
-    margin-bottom: 60px;
+    margin-top: 32px;
+    margin-bottom: 64px;
   }
 </style>
